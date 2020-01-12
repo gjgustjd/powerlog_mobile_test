@@ -1,4 +1,4 @@
-package test.powerlog.mobile.springboot.web;
+package test.powerlog.mobile.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
