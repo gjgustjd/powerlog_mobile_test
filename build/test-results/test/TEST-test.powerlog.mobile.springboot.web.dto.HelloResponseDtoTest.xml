@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.powerlog.mobile.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-12T06:31:57" hostname="DESKTOP-LFS81JC" time="0.066">
+  <properties/>
+  <testcase name="lombok_performance_test" classname="test.powerlog.mobile.springboot.web.dto.HelloResponseDtoTest" time="0.066"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
