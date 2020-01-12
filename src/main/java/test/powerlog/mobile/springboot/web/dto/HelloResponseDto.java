@@ -1,4 +1,4 @@
-package test.powerlog.mobile.springboot.web;
+package test.powerlog.mobile.springboot.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -9,5 +9,5 @@ public class HelloResponseDto {
 
     private final String name;
     private final int amount;
-}
 
+}
